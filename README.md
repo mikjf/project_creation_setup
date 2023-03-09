@@ -12,7 +12,7 @@ You can find the detailed repository structure, how to create a project on GitHu
 
 ### Template for new projects
 * [template_project layout](template_project_layout/)
-* [template_project.zip download](template_project_download/template_project.zip)
+* [template_project.zip download](template_project_download/template_project.zip) (use download button)
 
 ### Technologies
 * GitHub
