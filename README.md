@@ -3,7 +3,7 @@
 example image:
 
 
-![alternative text](/project_project_layout/reports/img/pic01.jpg)
+![alternative text](/template_project_layout/reports/img/pic01.jpg)
 
 
 #### -- Project Status: [Active, On-Hold, Completed]
